@@ -1,0 +1,6 @@
+[Database]
+host =localhost
+user = root
+password = Ram@12345
+database = HospitalManagementSystem
+port = 3306
